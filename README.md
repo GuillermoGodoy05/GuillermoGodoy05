@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godoy Guillermo</h1>
 <h3 align="center">A Developer from Argentina</h3>
 
-- 🔭 I’m currently working on my own proyects [Matesdev](matesdev.com)
+- 🔭 I’m currently working on my own proyects to design web pages with MERN [Matesdev](matesdev.com)
 
 - 🌱 I’m currently learning **MERN: React, Mongo, Express, Node and Typescript**
 

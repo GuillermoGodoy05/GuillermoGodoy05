@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godoy Guillermo</h1>
-<h3 align="center">A Developer from Argentina</h3>
+<h3 align="center">A React Developer from Argentina</h3>
 
 - 🔭 I’m currently working on my own proyects to design web pages with MERN [Matesdev](matesdev.com)
 

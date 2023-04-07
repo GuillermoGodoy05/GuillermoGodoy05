@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own proyects to design web pages with MERN [Matesdev](matesdev.com)
 
-- 🌱 I’m currently learning **MERN: React, Mongo, Express, Node and Typescript**
+- 🌱 I’m currently learning: **React, Prisma, Mysql, Mongo, Express, Node and Typescript**
 
 - 🤝 I’m looking for help with [Matesdev](matesdev.com)
 

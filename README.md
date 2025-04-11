@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Godoy Guillermo</h1>
 <h3 align="center">A React Developer from Argentina</h3>
 
-- 🔭 I’m currently working on my own proyects to design web pages with MERN [Matesdev](matesdev.com)
+- 🔭 I’m currently working on my own proyects to design web pages with React and full stack .NET
 
-- 🌱 I’m currently learning: **React, Prisma, Mysql, Mongo, Express, Node and Typescript**
-
-- 🤝 I’m looking for help with [Matesdev](matesdev.com)
+- 🌱 I’m currently learning: **React, .net, Sql Server and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://guillermo-godoy-pro.netlify.app/](https://guillermo-godoy-pro.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@Guillerg05](https://medium.com/@Guillerg05)
 
-- 💬 Ask me about **React, Mongo, Express, Node, Typescript. HTML, CSS, C#, JAVA, and SQL Server**
+- 💬 Ask me about **React, Mongo, Express, Node, Typescript. HTML, CSS, C#, .net and SQL Server**
 
 - 📫 How to reach me **guillermo.rgo92@gmail.com**
 

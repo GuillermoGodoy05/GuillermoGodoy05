@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://guillermo-godoy-pro.netlify.app/](https://guillermo-godoy-pro.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@Guillerg05](https://medium.com/@Guillerg05)
-
 - 💬 Ask me about **React, Mongo, Express, Node, Typescript. HTML, CSS, C#, .net and SQL Server**
 
 - 📫 How to reach me **guillermo.rgo92@gmail.com**

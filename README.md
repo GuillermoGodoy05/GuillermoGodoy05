@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Godoy Guillermo</h1>
 <h3 align="center">A React Developer from Argentina</h3>
 
-- 🔭 I’m currently working on my own proyects to design web pages with React and full stack .NET
+- 🔭 I’m currently working on my own proyects to design web pages with React, Angular and full stack .NET
 
 - 🌱 I’m currently learning: **React, .net, Sql Server and Typescript**
 

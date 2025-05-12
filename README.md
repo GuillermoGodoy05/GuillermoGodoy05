@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own proyects to design web pages with React, Angular and full stack .NET
 
-- 🌱 I’m currently learning: **React, .net, Sql Server and Typescript**
+- 🌱 I’m currently learning: **React, Angular, .net, Sql Server and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://guillermo-godoy-pro.netlify.app/](https://guillermo-godoy-pro.netlify.app/)
 

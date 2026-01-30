@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Godoy Guillermo</h1>
-<h3 align="center">A React Developer from Argentina</h3>
+<h3 align="center">A Systems Analyst from Argentina</h3>
 
 - 🔭 I’m currently working on my own proyects to design web pages with React, Angular and full stack .NET
 
-- 🌱 I’m currently learning: **React, Angular, .net, Sql Server and Typescript**
+- 🌱 I’m currently learning: **React, Angular, .net, Sql Server, Docker, PostgreSQL and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://guillermogodoy05.netlify.app/](https://guillermogodoy05.netlify.app/)
 
-- 💬 Ask me about **React, Mongo, Express, Node, Typescript. HTML, CSS, C#, .net and SQL Server**
+- 💬 Ask me about **React, Typescript. HTML, CSS, C#, .net and SQL Server**
 
 - 📫 How to reach me **guillermo.rgo92@gmail.com**
 
